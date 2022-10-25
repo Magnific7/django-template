@@ -3,6 +3,7 @@ This is a sample django project
 
 ## Clone Project
 HTTPS: git remote add origin https://github.com/Magnific7/django-template.git
+
 SSH: git remote add origin git@github.com:Magnific7/django-template.git
 
 ### Create a virtual environment 
