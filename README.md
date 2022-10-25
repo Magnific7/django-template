@@ -27,4 +27,5 @@ winpty python manage.py createsuperuser
 #### Run the project
 Python manage.py runserver
 
-
+#### Browser access 
+http://127.0.0.1:8000/django_app/
