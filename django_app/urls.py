@@ -1,13 +1,15 @@
 from django.conf import settings
 from django.urls import path,re_path
 from . import views
+
 from django.conf.urls.static import static
 
 
 urlpatterns = [
     path('', views.Index, name='Index'),
     path('login', views.Login, name='Login'),
-    path('reset', views.Cancel, name='reset')
+    path('reset', views.Cancel, name='reset'),
+    path('charts', views.Charts, name='charts')
 
 
 ]
