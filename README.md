@@ -2,12 +2,12 @@
 This is a sample django project 
 
 ## Clone Project
-HTTPS: git remote add origin https://github.com/Magnific7/django-template.git
+HTTPS: git clone https://github.com/Magnific7/django-template.git
 
-SSH: git remote add origin git@github.com:Magnific7/django-template.git
+SSH: git clone git@github.com:Magnific7/django-template.git
 
 ### Create a virtual environment 
-install virstualenv  >>>> pip install virtualenv
+install virtualenv  >>>> pip install virtualenv
 create venv >>>> virtualenv venv 
 Activate >>> source venv/bin/activate (linux)
 Activate >>> source venv/Scripts/activate (windows)
